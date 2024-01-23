@@ -1,6 +1,6 @@
 #!/bin/bash
-function welcome(){
+function welcome() {
     echo "Welcome to IT"
 }
 
-welcome();
+welcome()
