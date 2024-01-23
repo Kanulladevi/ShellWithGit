@@ -1,5 +1,5 @@
 #!/bin/bash
-function welcomre() {
+function welcome() {
     echo "welcome $1"
 }
 
