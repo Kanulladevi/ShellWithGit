@@ -2,6 +2,6 @@ count=10
 i=0
 until [$i -gt $count ]
 do
-edho $i 
+echo $i 
 let i++
 done
